@@ -16,6 +16,11 @@ A smart contract for depositing and withdrawing ETH with configurable limits.
 - [Hardhat](https://hardhat.org/)
 - [ethers.js](https://docs.ethers.org/v5/)
 
+## 🌐 Deployed Contracts
+
+### Sepolia Testnet
+- **KipuBank**: [0xBCAB20ABB74c1055C3A28fA8292317fA2A200423](https://sepolia.etherscan.io/address/0xBCAB20ABB74c1055C3A28fA8292317fA2A200423)
+
 ## 🔧 Installation
 
 ```bash
